@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Visual Studio Code
+.vscode/
+
+# Directories
+build/
+dist/
+logs/
+source/
+
+# Installer
+*.whl
+*.tar.gz
+
+# Temporary Excel Files
+~$*.xlsx
+
+# Testing Artifacts
+.pytest_cache/
