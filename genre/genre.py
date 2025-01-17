@@ -1,16 +1,16 @@
-""""
+"""
 Description: An enumeration containing valid Genres.
 """
 __author__ = "ACE Faculty"
-__version__ = "1.0.0"
-__credits__ = ""
+__version__ = "1.1.0"
+__credits__ = "Md Apurba Khan"
 
 from enum import Enum
 
 class Genre(Enum):
     """
     An enumeration listing each of the available genres.
-    To use:  Genre.GENRE_NAME.  
+    To use: Genre.GENRE_NAME.
     Example: Genre.NON_FICTION
     """
     FICTION = 0
